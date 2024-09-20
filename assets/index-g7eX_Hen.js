@@ -5346,7 +5346,7 @@ function Gu(e, t) {
   }
   return [n, s, r];
 }
-const Qu = "./poke.png",
+const Qu = "./pikachu.jpg",
   Xu = { class: "navbar navbar-expand-sm navbar-light bg-warning" },
   Yu = { class: "container" },
   Zu = { class: "collapse navbar-collapse", id: "collapsibleNavId" },
